@@ -1,0 +1,21 @@
+.container {
+  height: 500px;
+  border: 2px dotted black;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
+.box1 {
+  background-color: rebeccapurple;
+}
+.box2 {
+  background-color: gold;
+}
+.box3 {
+  background-color: greenyellow;
+}
+.box4 {
+  background-color: hotpink;
+}
