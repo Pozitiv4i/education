@@ -9,13 +9,63 @@
 }
 .box1 {
   background-color: rebeccapurple;
+  animation: moveBox1 1s ease-in-out both;
+  transition: border-radius 1s ease-in-out;
+}
+.box1:hover {
+  border-radius: 100px;
 }
 .box2 {
   background-color: gold;
+  animation: moveBox2 1s ease-in-out both;
 }
 .box3 {
   background-color: greenyellow;
+  animation: moveBox3 3s ease-in-out infinite ;
 }
 .box4 {
   background-color: hotpink;
+  animation: moveBox4 2s ease-in-out infinite ;
+}
+
+@keyframes moveBox1 {
+  0% {
+    margin-left: 0;
+  }
+  100% {
+    margin-left: 1800px;
+  }
+}
+@keyframes moveBox2 {
+  0% {
+    width: 100px;
+  }
+  100% {
+    
+    width: 1890px;
+  }
+}
+@keyframes moveBox3 {
+  0% {
+    margin-left: 0px;
+  }
+  50% {
+    margin-left: 1800px;
+  }
+  100% {
+    margin-left: 0px;
+  }
+}
+@keyframes moveBox4 {
+  0% {
+    margin-left: 0px;
+  }
+  50% {
+    margin-left: 900px;
+    width: 300px;
+  }
+  100% {
+    margin-left: 1800px;
+    width: 100px;
+  }
 }
