@@ -2,5 +2,53 @@
   width: 800px;
   height: 458px;
   margin: 50px;
-  background: url('road.jpg');
+  background:  url('road.jpg') repeat;
+  position: relative;
+  animation: moveRoad 1s linear infinite;
+}
+.car {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  top: 250px;
+  left: 339px;
+}
+.body {
+  width: 300px;
+  height: 300px;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.wheel1 {
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  top: 155px;
+  left: 43px;
+  animation: move 1s linear infinite;
+}
+.wheel2 {
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  top: 155px;
+  left: 211px;
+  animation: move 1s linear infinite;
+}
+@keyframes move {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform:rotate(360deg);
+  }
+}
+@keyframes moveRoad {
+  0% {
+    background-position: 0px 0;
+  }
+  100% {
+    background-position: 800px 0;
+  }
 }
