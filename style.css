@@ -2,13 +2,17 @@
     margin: 0;
     padding: 0;
    }
+/*придумати адекватний сласнейм*/
 .h {
+    /* навіщо для h1 додавати текст декорейшн??? */
     text-decoration: none;
 }
-#selector {
+/*придумати адекватний айді*/
+#selector { 
     color:rgb(255, 153, 0)
 }
 ul li {
+    /* навіщо для h1 додавати текст декорейшн??? */
     text-decoration: none;
 }
 li {
@@ -17,18 +21,22 @@ li {
 a:link {
     color: black;
 }
+/* не працює */
 .h + #selector {
     color: brown;
 }
+/* не працює */
 #container > ul {
     border: 1px solid black;
 }
 ul ~ p {
     color: red;
 }
+/* нема елемента який задовільняє цього селектора */
 a[title] {
     color: green;
 }
+/* нема елемента який задовільняє цього селектора */
 a[href="http://net.tutsplus.com"] {
     color: #1f6053; 
 }
@@ -36,15 +44,19 @@ a[href^="http"] {
     background-size: 16px;
     padding-left: 10px;
 }
+/* нема елемента який задовільняє цього селектора */
 a[href$=".png"] {
     color: blue;
 }
+/* нема елемента який задовільняє цього селектора */
 a[data-filetype="image"] {
     color: rgb(238, 255, 0);
 }
+/* нема елемента який задовільняє цього селектора */
 input:checked {
     border: 1px solid black;
 }
+/* не бачу афтер + стилі безполєзні */
 h3:after {
     font-size: 0;
     height: 4px;
@@ -55,6 +67,7 @@ h3:after {
 div:not(#container) {
     color: rgb(225, 0, 255);
 }
+/* для а не працює афтер */
 a::after {
     font-size: 14px;
     height: 4px;
@@ -68,9 +81,11 @@ p:nth-last-child(2) {
 ul:nth-of-type(3) {
     border: 1px solid black;
 }
+/* нема елемента який задовільняє цього селектора */
 ul:nth-last-of-type(3) {
     border: 3px solid rgb(216, 93, 93);
 }
+/* напиши другий стиль, цей безпантовий */
 ul li:first-child {
     border-top: none;
 }
@@ -80,6 +95,7 @@ ul > li:last-child {
 div p:only-child {
     color: red;
 }
+/* нема елемента який задовільняє цього селектора */
 li:only-of-type {
     font-weight: bold;
 }
