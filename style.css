@@ -1,0 +1,27 @@
+#body p {
+  font-size: 12px;
+  color: chocolate;
+}
+.task {
+  width: 300px;
+  height: 200px;
+  overflow: auto;
+}
+#boxes .box {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+}
+#boxes {
+  display: flex;
+}
+#boxes .box.box1 {
+  background-color: palevioletred;
+}
+#boxes .box.box2 {
+  background-color: palegreen!important;
+}
+#boxes .box.box3 {
+  background-color: lightseagreen;
+}
+/* код вище не трогати */
