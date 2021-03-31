@@ -25,3 +25,24 @@
   background-color: lightseagreen;
 }
 /* код вище не трогати */
+
+#body .task p {
+    font-size: 18px;
+    color: aqua;
+}
+.task #boxes .box {
+    width: 75px;
+    height: 75px;
+}
+.task #boxes .box.box1 {
+    background-color: rgb(121, 31, 182);
+    position: absolute;
+}
+.task #boxes .box.box2 {
+    background-color: rgb(0, 231, 31);
+    position: relative;
+}
+.task #boxes .box.box3 {
+    background-color: rgb(209, 28, 43);
+    position: sticky;
+}
