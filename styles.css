@@ -1,0 +1,32 @@
+.box1 {
+    height: 120px;
+    width: 100%;
+    background-color: black;
+}
+.centerContainer {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box2 {
+    width: 12%;
+    height: 600px;
+    background-color: black;
+}
+.box3 {
+    width: 73%;
+    height: 600px;
+    background-color: black;
+}
+.box4 {
+    width: 12%;
+    height: 600px;
+    background-color: black;
+}
+.box5 {
+    margin-top: 20px;
+    height: 100px;
+    width: 100%;
+    background-color: black;
+}

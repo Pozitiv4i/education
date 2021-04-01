@@ -1,0 +1,29 @@
+.boxes {
+    width: 100px;
+    height: 100px;
+    border: 10px solid black;
+    position: relative;
+
+}
+.boxes:after, .boxes:before{
+    content: "";
+    position: absolute;
+    top: 20px;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+}
+.boxes:before {
+    left: 50px;
+}
+.boxes:after {
+    left: 20px;
+}
+.overflow {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(0, 0, 0);
+    overflow: scroll;
+    color: azure;
+}
+
