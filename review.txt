@@ -1,8 +1,15 @@
-1. вирівняй текст по центру блока https://prnt.sc/112xroz +
-2. заюзай сабку https://webref.ru/html/sup https://prnt.sc/112xs08 +
-3. текст повинен бути на одному рівні https://prnt.sc/112xt7q
-4. ширина контейнера має бути 620 https://prnt.sc/112xvwo +
-5. удали цей елемент, бордер додай на контейнер https://prnt.sc/112xw7w +
-6. лого потрібно вирівняти по центру маргін удали https://prnt.sc/112xw7w +
-7. дублікат стилів https://prnt.sc/112xyaq https://prnt.sc/112xzhc +
-8. навіщо ці класи? вони не використовуються в css https://prnt.sc/112y067 +
+1. вирівняй текст по центру блока https://prnt.sc/112xroz -
+2. заюзай сабку https://webref.ru/html/sup https://prnt.sc/112xs08 ++
+3. текст повинен бути на одному рівні https://prnt.sc/112xt7q -
+4. ширина контейнера має бути 620 https://prnt.sc/112xvwo ++
+5. удали цей елемент, бордер додай на контейнер https://prnt.sc/112xw7w ++
+6. лого потрібно вирівняти по центру маргін удали https://prnt.sc/112xw7w ++
+7. дублікат стилів https://prnt.sc/112xyaq https://prnt.sc/112xzhc ++
+8. навіщо ці класи? вони не використовуються в css https://prnt.sc/112y067 ++
+9. лишній пробел https://prnt.sc/114z2na
+10. ширина контейнера має бути 620 https://prnt.sc/114z3k8
+11. зроби бордер 2рх https://prnt.sc/114z45z
+12. некоректний шрифт https://prnt.sc/114z782 https://prnt.sc/114z86m
+13. це силки https://prnt.sc/114z8uf
+14. переноси не по макету https://prnt.sc/114z9is
+15. фонт-вейт 400 https://prnt.sc/114zanu https://prnt.sc/114zb5j
