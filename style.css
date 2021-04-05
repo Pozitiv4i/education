@@ -80,8 +80,9 @@ a, p, h3 {
     font-size: 12px;
 }
 .medick-command p {
+    margin: 0;
     text-align: center;
-    padding-top: 8px;
+    padding-top: 6px;
 }
 .medicine {
     font-size: 12px;
@@ -92,7 +93,9 @@ a, p, h3 {
     display: flex;
     justify-content:center;
     font-size: 11px;
-    
+}
+.medications img{
+    width: 108px;
 }
 .medicament a {
     color: black;
