@@ -1,8 +1,8 @@
-1. вирівняй текст по центру блока https://prnt.sc/112xroz
-2. заюзай сабку https://webref.ru/html/sup https://prnt.sc/112xs08 
+1. вирівняй текст по центру блока https://prnt.sc/112xroz +
+2. заюзай сабку https://webref.ru/html/sup https://prnt.sc/112xs08 +
 3. текст повинен бути на одному рівні https://prnt.sc/112xt7q
-4. ширина контейнера має бути 620 https://prnt.sc/112xvwo
-5. удали цей елемент, бордер додай на контейнер https://prnt.sc/112xw7w
-6. лого потрібно вирівняти по центру маргін удали https://prnt.sc/112xw7w
-7. дублікат стилів https://prnt.sc/112xyaq https://prnt.sc/112xzhc
-8. навіщо ці класи? вони не використовуються в css https://prnt.sc/112y067
+4. ширина контейнера має бути 620 https://prnt.sc/112xvwo +
+5. удали цей елемент, бордер додай на контейнер https://prnt.sc/112xw7w +
+6. лого потрібно вирівняти по центру маргін удали https://prnt.sc/112xw7w +
+7. дублікат стилів https://prnt.sc/112xyaq https://prnt.sc/112xzhc +
+8. навіщо ці класи? вони не використовуються в css https://prnt.sc/112y067 +
