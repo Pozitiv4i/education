@@ -1,0 +1,83 @@
+body, p {
+    margin: 0;
+    font-family: Arial;
+}
+.container {
+    border-top: 2px solid #a70532;
+    width: 620px;
+}
+.eukerin {
+    border-bottom: 2px solid #f7921d ;
+    height: 223px;
+}
+.logo, .melanoma{
+    display: flex;
+}
+.logo {
+    margin: 27px auto 0 auto;
+}
+.melanoma {
+    margin: 33px auto 0 auto;
+}
+h1, .for-doctor {
+    margin-left: 65px;
+    font-size: 12px;
+}
+h1 {
+    margin-top: 31px;
+} 
+.for-doctor {
+    margin-top: 15px;
+}
+.red-text {
+    color: #a70532;
+}
+.doctor {
+    border-bottom: 2px solid #a70532;
+    height: 109px;
+}
+h2, .prevention {
+    text-align: center;
+}
+h2 {
+    font-size: 22px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.prevention {
+    font-size: 12px;
+    margin-top: 11px;
+    margin-bottom: 7px;
+}
+.yellow-line {
+    display: flex;
+    margin: 0 auto;
+    height: 2px;
+    width: 230px;
+    background-color: #f7921d;
+}
+.doctor-container {
+    display: flex;
+}
+.doctor-container img {
+    border: 2px solid #f7921d;
+    margin-left:24px;
+}
+.doctor-container img, .diagnosis  {
+    margin-top: 37px;
+}
+.diagnosis {
+    font-size: 10px;
+    margin-left: 3px;
+}
+.information {
+    font-size: 8px;
+}
+.information, .yellow-text {
+    margin-left: 3px;
+}
+.yellow-text {
+    color: #f7921d;
+    font-size: 10px;
+    margin-top: 42px;
+}
