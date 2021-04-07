@@ -58,10 +58,13 @@ h2 {
 }
 .doctor-container {
     display: flex;
+    flex-wrap: wrap;
 }
-.doctor-container img {
+.doctor-container .img-doctor {
     border: 2px solid #f7921d;
     margin-left:24px;
+    width: 75px;
+    height: 92px;
 }
 .doctor-container img, .diagnosis  {
     margin-top: 37px;
@@ -80,4 +83,84 @@ h2 {
     color: #f7921d;
     font-size: 10px;
     margin-top: 42px;
+}
+.doctor1,.doctor2,.doctor3,.doctor4 {
+    display: flex;
+}
+.doctor2 img {
+    margin-left: 36px;
+}
+.yellow-text2 {
+    color: #f7921d;
+    font-size: 10px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.yellow-text3 {
+    color: #f7921d;
+    font-size: 10px;
+    margin-top: 19px;
+    margin-left: 5px;
+}
+.yellow-text4 {
+    color: #f7921d;
+    font-size: 10px;
+    margin-top: 31px;
+    margin-left: 5px;
+}
+.doctor4 img {
+    margin-left: 48px;
+}
+.watch-now {
+    height: 27px;
+    background-color: #a70532;
+    width: 100%;
+    margin-top: 47px;
+    text-align: center;
+    padding-top: 9px;
+}
+.watch-now a {
+    color: white;
+    font-size: 12px;
+    font-weight: 600;
+}
+.eukerit-virtual-booth {
+    color: white;
+    font-size: 12px;
+    background-color: #f7921d;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    padding-top: 15px;
+}
+.medical-team {
+    text-align: center;
+    font-size: 10px;
+    width: 100%;
+    margin-top: 16px;
+    border-bottom:2px solid #a70532 ;
+}
+.questions {
+    margin-top: 13px;
+}
+.medical-team img {
+    margin-top: 30px;
+}
+.life {
+    font-size: 10.5px;
+    text-align: center;
+    line-height: 1px;
+}
+
+footer p {
+    font-size: 8px;
+    
+}
+.inform {
+    height: 134px;
+    width: 100%;
+    background-color: #f0f1f2;
+    margin-top: 29px;
+    padding-top: 18px;
+    padding-left: 34px;
 }
