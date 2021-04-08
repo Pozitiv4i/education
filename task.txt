@@ -1,0 +1,2 @@
+1. http://htmlbook.ru/css/value/media
+2. коли ширина браузера менша ніж 1000 поміняти цим блокам фон між собою https://prnt.sc/1172icu
