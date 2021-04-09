@@ -1,0 +1,67 @@
+body, p{
+    font-family: Arial;
+    margin: 0;
+}
+.container {
+    width: 620px;
+    border-top: 2px solid #a70532;
+}
+.logo, .melanoma {
+    display: flex;
+    margin: 30px auto 0 auto;
+}
+header {
+    height: 242px;
+    border-bottom: 2px solid #f7921d;
+}
+.melanoma {
+    margin-top: 64px;
+}
+.eucerin  {
+    margin-top: 51px;
+    margin-left: 66px;
+    font-size: 12px;
+}
+.eucerin b {
+    font-size: 14px;
+}
+.invite {
+    margin-top: 14px;
+}
+.red-text {
+    color: #a70532;
+}
+.news {
+    margin-top: 18px;
+}
+.yellow-text {
+    color: #f7921d;
+}
+.eucerin .yellow-text {
+    margin-top: 12px;
+    font-size: 12px;
+    font-weight: 600;
+}
+.eucerin ul {
+    font-size: 10px;
+    padding-left: 12px;
+}
+.eucerin li:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 5px;
+    height: 12px;
+    left: 64px;
+    background-color:#f7921d;
+}
+.keratosis {
+    margin-top: 10px;
+}
+.doctor {
+    display: flex;
+}
+.medicament {
+    margin-top: 34px;
+    margin-left: 12px;
+}

@@ -1,5 +1,5 @@
 %!Adobe-FontList 1.22
-%Locale:0x422
+%Locale:0x419
 
 %BeginFont
 Handler:DirectoryHandler
@@ -11,14 +11,14 @@ FullName:Eucerina WGL Light
 MenuName:Eucerina WGL Light
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\maksym.tkachuk\Desktop\210331_23472_eMail_EADO Folder\Document fonts\EucerinaWGL-Light.otf
+OutlineFileName:C:\Users\sliva\OneDrive\Desktop\education\design\Document fonts\EucerinaWGL-Light.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:96384
-FileModTime:1573214090
+FileModTime:1617980899
 WeightClass:300
 WidthClass:5
 AngleClass:0
@@ -37,14 +37,14 @@ FullName:Eucerina WGL Regular
 MenuName:Eucerina WGL
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\maksym.tkachuk\Desktop\210331_23472_eMail_EADO Folder\Document fonts\EucerinaWGL-Regular.otf
+OutlineFileName:C:\Users\sliva\OneDrive\Desktop\education\design\Document fonts\EucerinaWGL-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:93560
-FileModTime:1573214090
+FileModTime:1617980899
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -62,12 +62,12 @@ FullName:Arial
 MenuName:Arial
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\maksym.tkachuk\Desktop\210331_23472_eMail_EADO Folder\Document fonts\arial.ttf
+OutlineFileName:C:\Users\sliva\OneDrive\Desktop\education\design\Document fonts\arial.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:1036584
-FileModTime:1575709708
+FileModTime:1617980899
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -85,12 +85,12 @@ FullName:Arial Bold
 MenuName:Arial
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\Users\maksym.tkachuk\Desktop\210331_23472_eMail_EADO Folder\Document fonts\arialbd.ttf
+OutlineFileName:C:\Users\sliva\OneDrive\Desktop\education\design\Document fonts\arialbd.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:980756
-FileModTime:1575709708
+FileModTime:1617980899
 WeightClass:700
 WidthClass:5
 AngleClass:0
@@ -108,12 +108,12 @@ FullName:Arial Italic
 MenuName:Arial
 StyleBits:1
 WritingScript:Roman
-OutlineFileName:C:\Users\maksym.tkachuk\Desktop\210331_23472_eMail_EADO Folder\Document fonts\ariali.ttf
+OutlineFileName:C:\Users\sliva\OneDrive\Desktop\education\design\Document fonts\ariali.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:717428
-FileModTime:1575709708
+FileModTime:1617980899
 WeightClass:400
 WidthClass:5
 AngleClass:1
