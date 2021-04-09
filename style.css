@@ -89,21 +89,20 @@ h2 {
     color: #f7921d;
     font-size: 10px;
 }
+.doctor-container .yellow-text {
+    margin-left: 3px;
+}
 .doctor1 .yellow-text {
     margin-top: 42px;
-    margin-left: 3px;
 }
 .doctor2 .yellow-text {
     margin-top: 10px;
-    margin-left: 3px;
 }
 .doctor3 .yellow-text {
     margin-top: 19px;
-    margin-left: 3px;
 }
 .doctor4 .yellow-text {
     margin-top: 31px;
-    margin-left: 3px;
 }
 .doctor4 img {
     margin-left: 48px;
@@ -116,9 +115,7 @@ h2 {
     text-align: center;
     padding-top: 9px;
 }
-@media screen and (max-width: 1000px) {
-    .watch-now{background-color: #f7921d;}
-}
+
 .watch-now a {
     color: white;
     font-size: 12px;
@@ -133,9 +130,7 @@ h2 {
     text-align: center;
     padding-top: 15px;
 }
-@media screen and (max-width: 1000px) {
-    .eukerit-virtual-booth{background-color: #a70532;}
-}
+
 .medical-team {
     text-align: center;
     font-size: 10px;
@@ -147,7 +142,8 @@ h2 {
     margin-top: 13px;
 }
 .medical-team img {
-    margin-top: 30px;
+    margin-top: 24px;
+    margin-bottom: 6px;
 }
 .dermatologikal p {
     font-size: 10px;
@@ -179,4 +175,13 @@ footer p {
 }
 .register {
     margin-top: 11px;
+}
+.doctor .red-text {
+    font-weight: 600;
+}
+@media screen and (max-width: 1000px) {
+    .eukerit-virtual-booth{background-color: #a70532;}
+}
+@media screen and (max-width: 1000px) {
+    .watch-now{background-color: #f7921d;}
 }
