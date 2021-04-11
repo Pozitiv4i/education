@@ -5,7 +5,8 @@
 5. класи не використовуються в стилях https://prnt.sc/1172dj5 +
 6. пофіксити верстку https://prnt.sc/1172eh2 +
 7. зробити болдом https://prnt.sc/117wsuw +
-8. додати сабки https://prnt.sc/117wtle +
+8. додати сабки https://prnt.sc/117wtle --
 9. додати відступ https://prnt.sc/117wu6n +
 10. медіазапроси в кінець https://prnt.sc/117ww2a +
 11. дублікація https://prnt.sc/117wy3c +
+12. задай ширину https://prnt.sc/119jd0y, у всіх картинок повинен бути однаковий відступ https://prnt.sc/119jdtd
