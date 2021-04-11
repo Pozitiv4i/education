@@ -1,0 +1,6 @@
+1. no bold https://prnt.sc/119jhb1
+2. add space https://prnt.sc/119jfvi
+3. https://prnt.sc/119jjc4 these elements should be located relatively li (add position relative for li)
+4. you shouldn't use a class for this element (get rid of this class) https://prnt.sc/119jl95
+5. add width for this element https://prnt.sc/119jnrk
+6. delete this https://prnt.sc/119jo2v
