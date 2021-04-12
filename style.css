@@ -18,6 +18,7 @@ header {
     margin-top: 64px;
 }
 .eucerin  {
+    width: 332px;
     margin-top: 51px;
     margin-left: 66px;
     font-size: 12px;
@@ -26,7 +27,8 @@ header {
     font-size: 14px;
 }
 .invite {
-    margin-top: 14px;
+    margin-top: 13px;
+    font-weight: 600;
 }
 .red-text {
     color: #a70532;
@@ -45,6 +47,7 @@ header {
 .eucerin ul {
     font-size: 10px;
     padding-left: 12px;
+    position: relative;
 }
 .eucerin li:before {
     content: "";
@@ -52,11 +55,12 @@ header {
     position: absolute;
     width: 5px;
     height: 12px;
-    left: 64px;
+    left: 0;
     background-color:#f7921d;
 }
-.keratosis {
+.eucerin ul li {
     margin-top: 10px;
+    list-style-type: none;
 }
 .doctor {
     display: flex;
@@ -65,3 +69,6 @@ header {
     margin-top: 34px;
     margin-left: 12px;
 }
+.doctor-name {
+    font-weight: 600;
+} 
