@@ -167,3 +167,38 @@ header {
 .social-networks img {
     margin-top: 20px;
 }
+.dermatologikal {
+    display: flex;
+    font-size: 10;
+    justify-content: center;
+    height: 55px;
+    align-items: center;
+}
+.dermatologikal p {
+    font-size: 10px;
+    margin-left: 10px;
+}
+footer p {
+    font-size: 8px;
+}
+.inform {
+    height: 134px;
+    width: 587px;
+    background-color: #f0f1f2;
+    padding-top: 18px;
+    padding-left: 34px;
+}
+.dermatologikal img {
+    height: 18px;
+    width: 50px;
+    margin-left: 7px;
+}
+.subscribed {
+    margin-top: 9px;
+}
+.register {
+    margin-top: 11px;
+}
+.doctor .red-text {
+    font-weight: 600;
+}
