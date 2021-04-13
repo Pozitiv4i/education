@@ -76,6 +76,7 @@ header {
     display: flex;
     margin: 0;
     height: 346px;
+    border-bottom: 2px solid #a70532;
 }
 .virtual-booth {
     width: 310px;
@@ -111,4 +112,58 @@ header {
 }
 .red-container p {
     padding-top: 11px;
+}
+.join {
+    margin-top: 57px;
+}
+
+.act-in-control, .set-time {
+    color:#a70532;
+    font-weight: 600;
+}
+.act-in-control {
+    font-size: 14px;
+    text-align: center;
+    margin-top: 15px;
+}
+.set-time, .join, .prevention {
+    font-size: 12px;
+    text-align: center;
+}
+.eggert {
+    font-size: 10px;
+    text-align: center;
+    margin-top: 4px;
+}
+.april, .booth {
+    font-size: 8px;
+}
+.prevention {
+    margin-top: 16px;
+}
+.set-time {
+    margin-top: 16px;
+}
+.april {
+    margin-top: 36px;
+}
+.april, .booth {
+    margin-left: 11px;
+}
+.booth {
+    margin-top: 10px;
+}
+.social-networks h3 {
+    font-size: 14px;
+}
+.social-networks p {
+    font-size: 10px;
+} 
+.social-networks  {
+    text-align: center;
+    height: 116px;
+    border-bottom: 2px solid #a70532;
+}
+.social-networks img {
+    margin-top: 20px;
 }
