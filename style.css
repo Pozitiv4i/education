@@ -138,10 +138,7 @@ header {
 .april, .booth {
     font-size: 8px;
 }
-.prevention {
-    margin-top: 16px;
-}
-.set-time {
+.prevention, .set-time {
     margin-top: 16px;
 }
 .april {
@@ -169,7 +166,6 @@ header {
 }
 .dermatologikal {
     display: flex;
-    font-size: 10;
     justify-content: center;
     height: 55px;
     align-items: center;
@@ -180,6 +176,9 @@ header {
 }
 footer p {
     font-size: 8px;
+}
+.website {
+    padding-right: 25px;
 }
 .inform {
     height: 134px;
