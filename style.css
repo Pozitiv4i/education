@@ -22,14 +22,16 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
+@font-face {
+    font-family: Baskervville;
+    src: url(fonts/Baskervville-Regular.ttf);
+}
 body {
 	line-height: 1;
+    font-family: Baskervville;
 }
 ol, ul {
 	list-style: none;
-}
-body {
-    font-family: Baskervville;
 }
 .logo {
     color: #e3a68b;
@@ -78,4 +80,48 @@ h1 span {
 .banner {
     background-image: url(images/Alien_Covenant_Mountains_Water_Starship_536389_1920x700.jpg);
     height: 700px;
+}
+.team-leaders h2 {
+    font-size: 59px;
+    text-align: center;
+    margin-top: 265px;
+    color: #d7794a;
+}
+.orange-line {
+    background-color: #d7794a;
+    width: 450px;
+    height: 1px;
+    margin-top: 30px;
+    margin-left: 723px;
+}
+.team-leaders .qwestion {
+    margin-left: 380px;
+    font-size: 30px;
+    font-family:Helvetica;
+    margin-top: 84px;
+    letter-spacing: 1px;
+    line-height: 26px;
+}
+.photo-leaders {
+    display: flex;
+    justify-content: center;
+}
+.item1 {
+    font-family: Helvetica;
+    margin: 135px 52px 0;
+    text-align: center;
+}
+.name-leader {
+    font-size: 32px;
+    margin-top: 48px;
+    margin-right: 40px;
+}
+.item1 img {
+    width: 446px;
+    height: 566px;
+}
+.info-leader {
+    font-size: 22px;
+    margin-top: 50px;
+    line-height: 25px;
 }
