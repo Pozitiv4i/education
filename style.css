@@ -125,3 +125,34 @@ h1 span {
     margin-top: 50px;
     line-height: 25px;
 }
+.rating {
+    height: 342px;
+    background-color: #1f3138;
+    margin-top: 316px;
+    display: flex;
+    justify-content: center;
+}
+.item {
+    margin: 100px 105px 0 105px;
+    text-align: center;
+}
+.num {
+    font-size: 74px;
+    color:#d7794a;
+    font-family:Helvetica;
+    font-weight: 800;
+}
+.clients {
+    color: white;
+    font-size: 22px;
+    font-family:Helvetica;
+    margin-top: 34px;
+}
+.river {
+    height: 1127px;
+}
+.contact-us {
+    background-color: #1f3138;
+    height: 1435px;
+    width: 100%;
+}
