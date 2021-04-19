@@ -55,8 +55,7 @@ nav a {
     text-decoration: none;
     font-size: 18px;
     font-family:Helvetica;
-    padding-left: 20px;
-    padding-right: 20px;
+    padding: 0px 20px 0px 20px;
     line-height: 80px;
     display: inline-block;
     height: 80px;
@@ -88,17 +87,19 @@ h1 span {
     margin-top: 265px;
     color: #d7794a;
 }
-.orange-line {
+.team-leaders h2:after {
+    content: "";
     background-color: #d7794a;
     width: 450px;
     height: 1px;
     margin-top: 30px;
     margin-left: 723px;
+    display: block;
 }
 .team-leaders .qwestion {
-    margin-left: 380px;
+    text-align: center;
     font-size: 30px;
-    font-family:Helvetica;
+    font-family: Helvetica;
     margin-top: 84px;
     letter-spacing: 1px;
     line-height: 26px;
@@ -107,17 +108,17 @@ h1 span {
     display: flex;
     justify-content: center;
 }
-.item1 {
+.photo-leaders .item {
     font-family: Helvetica;
     margin: 135px 52px 0;
     text-align: center;
 }
 .name-leader {
     font-size: 32px;
-    margin-top: 48px;
+    margin: 48px 40px 0px 8px;
     margin-right: 40px;
 }
-.item1 img {
+.photo-leaders .item img {
     width: 446px;
     height: 566px;
 }
@@ -133,7 +134,7 @@ h1 span {
     display: flex;
     justify-content: center;
 }
-.item {
+.rating .item {
     margin: 100px 105px 0 105px;
     text-align: center;
 }
@@ -151,9 +152,24 @@ h1 span {
 }
 .river {
     height: 1127px;
+    background-image: url(images/stones-river-forest-sunrise.jpg);
 }
 .contact-us {
     background-color: #1f3138;
     height: 1435px;
     width: 100%;
+}
+.contact-us h2 {
+    font-size: 62px;
+    text-align: center;
+    color: white;
+    padding-top: 300px;
+}
+.omnis {
+    color: white;
+    font-size: 26px;
+    text-align: center;
+    padding-top: 55px;
+    font-family:Helvetica;
+    line-height: 39px;
 }
