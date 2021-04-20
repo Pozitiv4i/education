@@ -173,3 +173,41 @@ h1 span {
     font-family:Helvetica;
     line-height: 39px;
 }
+.name {
+    margin-left: 42px;
+    width: 500px;
+}
+.name, .category, .phone, .city, .email {
+    background-color: #1f3138;
+    color: gray;
+    border: 0px;
+    border-bottom: 1.5px solid white;
+    font-size: 21px;
+    height: 36px;
+}
+.email {
+    width: 1000px;
+    margin-left: 50px;
+    margin-top: 70px;
+}
+.city {
+    margin-left: 34px;
+    margin-top: 69px;
+    width: 500px;
+}
+.category {
+    margin-left: 32px;
+    width: 500px;
+}
+.phone {
+    margin-left: 42px;
+    margin-top: 69px;
+    width: 500px;
+}
+form {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1080px;
+    margin: 0 auto;
+    margin-top: 112px;
+}
