@@ -177,16 +177,23 @@ h1 span {
     margin-left: 42px;
     width: 500px;
 }
-.name, .category, .phone, .city, .email {
+.message {
+    margin-top: 72px;
+    margin-left: 43px;
+    min-height: 171px;
+    resize: none;
+    width: 100%;
+}
+.name, .category, .phone, .city, .email, .message {
     background-color: #1f3138;
     color: gray;
     border: 0px;
     border-bottom: 1.5px solid white;
-    font-size: 21px;
+    font-size: 22px;
     height: 36px;
 }
 .email {
-    width: 1000px;
+    width: 1080px;
     margin-left: 50px;
     margin-top: 70px;
 }
@@ -210,4 +217,91 @@ form {
     width: 1080px;
     margin: 0 auto;
     margin-top: 112px;
+}
+.contact-us button  {
+    background-color: #89563b;
+    width: 247px;
+    height: 72px;
+    border: 3px solid #65351f;
+    color: white;
+    font-size: 23px;
+    margin-left: 840px;
+    margin-top: 73px;
+}
+.about-team {
+    width: 100%;
+    display: flex;
+}
+.lisa {
+    padding-left: 59px;
+    padding-top: 352px;
+}
+.about-us {
+    background-color: #f9f9fb;
+    border: 2px solid #d3d2d7;
+    width: 840px;
+    height: 525px;
+    margin-top: 385px;
+    margin-left: 40px;
+    
+}
+.about-us h2 {
+    font-size: 46px;
+    font-weight: 500;
+    text-align: center;
+    margin-left: 53px;
+    margin-top: 65px;
+}
+.error  {
+    font-size: 18px;
+    text-align: center;
+    font-family: Helvetica;
+    line-height: 27px;
+    letter-spacing: 1px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.about-us img {
+    border-radius: 50%;
+    margin: 70px 59px 0;
+}
+.photo {
+    display: flex;
+    justify-content: center;
+}
+.komment {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+.komment p {
+    font-family: Helvetica;
+    font-size: 23px;
+    border: 2px solid black;
+    height: 57px;
+    margin-top: 30px;
+    text-align: center;
+    line-height: 57px;
+}
+.komment p::before {
+    content: " ";
+    height: 30px;
+    width: 1px;
+    background-color: black;
+    display: block;
+    position: absolute;
+    left: 162px;
+    bottom: 61px;
+}
+.team  {
+    width: 250px;
+    position: relative;
+}
+.involved {
+    width: 193px;
+    position: relative;
+}
+.assistance {
+    width: 230px;
+    position: relative;
 }
