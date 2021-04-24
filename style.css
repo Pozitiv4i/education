@@ -286,12 +286,10 @@ form {
 .komment p::before {
     content: " ";
     height: 30px;
-    width: 1px;
+    width: 2px;
     background-color: black;
     display: block;
     position: absolute;
-    left: 162px;
-    bottom: 61px;
 }
 .team  {
     width: 250px;
@@ -304,4 +302,53 @@ form {
 .assistance {
     width: 230px;
     position: relative;
+}
+.team::before {
+    left:133px;
+    bottom: 59px;
+}
+.involved::before {
+    left:90px;
+    bottom: 59px;
+}
+.assistance::before {
+    left:98px;
+    bottom: 59px;
+}
+h3 {
+    color: #a95e39;
+    font-size: 65px;
+    font-weight: 500;
+    text-align: center;
+    margin-left: 127px;
+    margin-top: 493px;
+    letter-spacing: 2px;
+}
+.gallery  {
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 84px;
+    letter-spacing: 4px;
+    margin-left: 150px;
+}
+.images-container {
+    display: flex;
+    margin-top: 167px;
+}
+.button-container {
+    background-color: #d6d6d6;
+    width: 100%;
+    height: 75px;
+}
+.button-container button {
+    color:#a95e39;
+    width: 52px;
+    height: 55px;
+    border-radius: 50%;
+    border: 2px solid #a95e39;
+}
+.button-container button:hover {
+    background-color: #a95e39;
+    color: white;
 }
