@@ -153,6 +153,10 @@ h1 span {
 .river {
     height: 1127px;
     background-image: url(images/stones-river-forest-sunrise.jpg);
+    background-repeat: round;
+}
+form select {
+    margin-top: 3px;
 }
 .contact-us {
     background-color: #1f3138;
@@ -199,7 +203,7 @@ h1 span {
 }
 .city {
     margin-left: 34px;
-    margin-top: 69px;
+    margin-top: 72px;
     width: 500px;
 }
 .category {
@@ -218,15 +222,52 @@ form {
     margin: 0 auto;
     margin-top: 112px;
 }
+
 .contact-us button  {
-    background-color: #89563b;
-    width: 247px;
-    height: 72px;
-    border: 3px solid #65351f;
     color: white;
+    background-color: #916750;
+    width: 250px;
+    height: 75px;
+    border: 3px solid hsl(19, 61%, 41%);
     font-size: 23px;
     margin-left: 840px;
     margin-top: 73px;
+    border-radius: 20px;
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 0.15s;
+}
+.contact-us button:hover {
+    background: #a77459;
+    transform: translate(0, 0.25em);
+}
+.contact-us button:hover:before {
+    box-shadow: 0 0 0 2px #9c725c, 0 0.5em 0 0 #9c9997;
+    transform: translate3d(0, 0.5em, -1em);
+}
+.contact-us button::before {
+    content: "";
+    width:100%;
+    height: 100%;
+    position: absolute;
+    background:hsl(19, 61%, 41%);
+    border-radius: inherit;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    border: 0px;
+    box-shadow: 0 0 0 2px #916750, 0 0.625em 0 0 #857c77;
+    transform: translate3d(0, 0.75em, -1em);
+    transition: transform 0.15s;
+}
+.contact-us button:active {
+    background-color:#857c77; 
+    transform: translate(0, 0.75em);
+}
+.contact-us button:active:before {
+    box-shadow: 0 0 0 2px #916750, 0 0 #857c77;
+    transform: translate3d(0, 0, -1em);
 }
 .about-team {
     width: 100%;
@@ -335,6 +376,10 @@ h3 {
 .images-container {
     display: flex;
     margin-top: 167px;
+}
+.images-container img {
+    width: 367px;
+    height: 767px;
 }
 .button-container {
     background-color: #d6d6d6;
