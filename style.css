@@ -120,23 +120,24 @@ h1 span {
 }
 .name-leader {
     font-size: 32px;
-    margin: 48px 40px 0px 8px;
-    margin-right: 40px;
+    margin: 48px auto 0 auto;
 }
 .photo-leaders .item img {
     width: 446px;
     height: 566px;
+    margin: 0 auto;
 }
 
 .info-leader {
     font-size: 22px;
-    margin-top: 50px;
     line-height: 25px;
+    width: 90%;
+    margin:50px  auto 0 auto ;
 }
 .rating {
     height: 342px;
     background-color: #1f3138;
-    margin-top: 316px;
+    margin-top: 200px;
     display: flex;
     justify-content: center;
 }
@@ -366,7 +367,6 @@ h3 {
     font-size: 65px;
     font-weight: 500;
     text-align: center;
-    margin-left: 127px;
     margin-top: 493px;
     letter-spacing: 2px;
 }

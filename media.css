@@ -10,6 +10,7 @@
     .team-leaders .qwestion {
         font-size: 26px;
     }
+    
     h1 {
         font-size: 50px;
         padding-left: 918px;
@@ -22,7 +23,7 @@
         margin-left: 458px;
     }
     .rating {
-        margin-top: 160px;
+        margin-top: 99px;
     }
     .river {
         height: 700px;
@@ -122,5 +123,130 @@
     }
     .img-container {
         margin-left: 304px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    h1 {
+        font-size: 46px;
+        padding-left: 559px;    
+    }
+    .team-leaders h2::after {
+        margin-left: 288px;
+    }
+    .qwestion {
+        font-size: 21px;
+    }
+    .photo-leaders .item {
+        margin-left: 15px;
+        margin-right: 20px;
+    }
+    .photo-leaders .item img {
+        width: 300px;
+        height: 400px;
+    }
+    .rating .item {
+        margin: 99px 50px 0 60px;
+    }
+    form .name {
+        width: 350px;
+    }
+    form .category {
+        width: 350px;
+    }
+    form .phone {
+        width: 350px;
+    }
+    form .city {
+        width: 350px;
+    }
+    form .email {
+        width: 723px;
+    }
+    .lisa {
+        height: 400px;
+        margin: 100px auto ;
+    }
+    form .message {
+        width: 723px;
+        min-height: 98px;
+    }
+    form .contact {
+        margin-left: 530px;
+    }
+    form {
+        margin:100px auto 0 auto;
+        width: 800px;
+    }
+    .contact-us {
+        height: 1131px;
+    }
+    .about-team {
+        flex-wrap: wrap;
+    }
+    .about-us {
+        margin: 0 auto;
+    }
+    h3 {
+        margin-top: 150px;
+        font-size: 53px;
+    }
+    .team-leaders .qwestion {
+        font-size: 24px;
+        margin-top: 52px;
+    }
+    .gallery {
+        font-size: 22px;
+        letter-spacing: 2px;
+        margin-left: 60px;
+    }
+    .text1 {
+        margin-left: 77px;
+    }
+    .text2 {
+        margin-left: 70px;
+    }
+    .text3 {
+        margin-left: 40px;
+    }
+    .text4 {
+        margin-left: 70px;
+    }
+    .img-container {
+        margin-left: 0px;
+    }
+}
+@media screen and (max-width: 880px) {
+    h1 {
+        font-size: 40px;
+        padding-left: 431px;
+    }
+    .team-leaders h2::after {
+        margin-left: 227px;
+    }
+    .team-leaders .qwestion {
+        font-size: 21px;
+    }
+    .photo-leaders .item img {
+        width: 250px;
+        height: 350px;
+    }
+    .name-leader {
+        font-size: 27px;
+        margin-right: 28px;
+    }
+    .info-leader {
+        font-size: 19px;
+        margin-top: 37px;
+        line-height: 21px;    
+    }
+    .rating .item {
+        margin: 102px 10px 0 36px;
+    }
+    form {
+        margin-left: 17px;
+    }
+    .about-team {
+        flex-wrap: wrap;
+        margin:0 auto;
     }
 }
