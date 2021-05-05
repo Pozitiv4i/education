@@ -250,3 +250,32 @@
         margin:0 auto;
     }
 }
+@media screen and (max-width: 480px) {
+    header nav  {
+        height: 0%;
+    }
+    .contacts {
+        padding-left: 116px;
+    }
+    h1 {
+        font-size: 34px;
+        padding-left: 0px;
+    }
+    .team-leaders h2 {
+        margin-top: 100px;
+        font-size: 50px;
+    }
+    .team-leaders h2::after {
+        margin-left: 47px;
+        width: 350px;
+    }
+    .photo-leaders {
+        display: block;
+        justify-content: center;
+    }
+    .rating {
+        margin-top: 99px;
+        display: block;
+        height: 0%;
+    }
+}
