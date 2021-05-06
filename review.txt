@@ -16,12 +16,12 @@
 16. це потрібно помістити в контейнер https://prnt.sc/12advxy +
 17. від такого маржина потрібно ізбавитись https://prnt.sc/12ae0q3 +
 
-18. на 1920 похали лінії https://prnt.sc/12k62yy, тут появилась пуста область https://prnt.sc/12k65ut
-19. убери пробіл https://prnt.sc/12k63ih
-20. 1366 появився скрол
-21. 1366 https://prnt.sc/12k69e4
-22. 1366 https://prnt.sc/12k6a0o
-23. 1024 потрібно оставтити 3 картинки https://prnt.sc/12k6f0i
-24. 480 https://prnt.sc/12k6hat
-25. 480 додай падінг https://prnt.sc/12k6j2b https://prnt.sc/12k6jzt
-26. 480 не по центру (різний маргін по бокам) https://prnt.sc/12k6kx0
+18. на 1920 похали лінії https://prnt.sc/12k62yy, тут появилась пуста область https://prnt.sc/12k65ut +
+19. убери пробіл https://prnt.sc/12k63ih +
+20. 1366 появився скрол (у мене скрола немає https://prnt.sc/12ky7ob)
+21. 1366 https://prnt.sc/12k69e4 +
+22. 1366 https://prnt.sc/12k6a0o +
+23. 1024 потрібно оставтити 3 картинки https://prnt.sc/12k6f0i +
+24. 480 https://prnt.sc/12k6hat -
+25. 480 додай падінг https://prnt.sc/12k6j2b https://prnt.sc/12k6jzt -
+26. 480 не по центру (різний маргін по бокам) https://prnt.sc/12k6kx0 +

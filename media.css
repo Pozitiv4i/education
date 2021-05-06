@@ -55,7 +55,7 @@
     .about-us img {
         width: 90px;
         height: 90px;
-        margin: 24px 53px 0px;
+        margin: 14px 60px 0px;
     }
     .komment p {
         font-size: 16px;
@@ -214,6 +214,13 @@
     .img-container {
         margin-left: 0px;
     }
+    .images-container img {
+        width: 34%;
+        height: 665px;
+    }
+    .images2, .images3 {
+        display: none;
+    }
 }
 @media screen and (max-width: 880px) {
     h1 {
@@ -277,5 +284,8 @@
         margin-top: 99px;
         display: block;
         height: 0%;
+    }
+    .rating .item {
+        margin: 102px 20px 0 20px;
     }
 }

@@ -206,7 +206,7 @@ form select {
 }
 .email {
     width: 1080px;
-    margin-left: 50px;
+    margin-left: 40px;
     margin-top: 70px;
 }
 .city {
@@ -375,14 +375,14 @@ h3 {
     font-weight: 600;
     margin-top: 84px;
     letter-spacing: 4px;
-    margin-left: 150px;
+    text-align: center;
 }
 .images-container {
     display: flex;
     margin-top: 167px;
 }
 .images-container img {
-    width: 367px;
+    width: 20%;
     height: 767px;
 }
 .button-container {
