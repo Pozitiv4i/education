@@ -288,4 +288,76 @@
     .rating .item {
         margin: 102px 20px 0 20px;
     }
+form .name {
+    width: 160px;
+}
+form .category {
+    width: 160px;
+}
+form .phone {
+    margin-right: 30px;
+}
+form .email {
+    width: 373px;
+}
+form .message {
+    width: 373px;
+    min-height: 80px;
+}
+form .contact {
+    margin-left: 270px;
+    width: 150px;
+    height: 60px;
+    margin-top: 15px;
+}
+form .contact::before{
+    display: none;
+}
+.lisa {
+    height: 300px;
+    margin: 70px auto;
+}
+.about-us {
+    width: 435px;
+    height: 339px;
+}
+.about-us img {
+    width: 90px;
+    height: 90px;
+    margin: 9px 24px 0px;
+}
+.gallery {
+    font-size: 19px;
+    letter-spacing: 2px;
+    margin-left: 0px;
+    margin-top: 47px;
+}
+h3 {
+    margin-top: 100px;
+    font-size: 48px;
+}
+.images-container .images5 {
+    display: none;
+}
+.images-container img {
+    width: 50%;
+    height: 600px;
+}
+footer p {
+    font-size: 18px;
+    padding-left: 60px;
+    padding-top: 19px;
+}
+.text1 {
+    margin-left: 40px;
+}
+.text2 {
+    margin-left: 25px;
+}
+.text3 {
+    margin-left: 30px;
+}
+.text4 {
+    margin-left: 26px;
+}
 }
