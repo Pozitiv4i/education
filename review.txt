@@ -1,27 +1,18 @@
-1. поміняй картінки https://prnt.sc/11kurh0 +
-2. збільш міжстройний інтервал https://prnt.sc/11kut8y +
-3. додай цю лінію на афтер https://prnt.sc/11kuu4b +
-4. пробел https://prnt.sc/11kuvse +
-5. нада зробити дівом і поставити цю картинку на фон https://prnt.sc/11kuy1s +
-6. перейменуй клас на item https://prnt.sc/11kv0h6 +
-7. картинку потрібно оптимізувати https://prnt.sc/11kv3z1 +
-8. можна записати 1 свойством https://prnt.sc/11kv9fk https://prnt.sc/11kvg1i +
-9. тут не нада маргіном отступ робити https://prnt.sc/11kvd0c тут нада задати ширину і вирівняти по центру +
-10. убери скрол https://prnt.sc/11kvi2u +
-11. убери беграунд репіт https://prnt.sc/120wtse +
-12. вирівняй інпути, додай паро елементів в селект, убрать фокус  https://prnt.sc/120wuqm +
-13. додай ховер на кпопку https://prnt.sc/120wv7s +
-14. чому в одному випадку падінг а в іншому маргін? https://prnt.sc/120x1wr +
-15. це мають бути силочкі https://prnt.sc/12adqtw +
-16. це потрібно помістити в контейнер https://prnt.sc/12advxy +
-17. від такого маржина потрібно ізбавитись https://prnt.sc/12ae0q3 +
 
-18. на 1920 похали лінії https://prnt.sc/12k62yy, тут появилась пуста область https://prnt.sc/12k65ut +
-19. убери пробіл https://prnt.sc/12k63ih +
-20. 1366 появився скрол (у мене скрола немає https://prnt.sc/12ky7ob)
-21. 1366 https://prnt.sc/12k69e4 +
-22. 1366 https://prnt.sc/12k6a0o +
-23. 1024 потрібно оставтити 3 картинки https://prnt.sc/12k6f0i +
-24. 480 https://prnt.sc/12k6hat -
-25. 480 додай падінг https://prnt.sc/12k6j2b https://prnt.sc/12k6jzt -
-26. 480 не по центру (різний маргін по бокам) https://prnt.sc/12k6kx0 +
+1920
+1. https://prnt.sc/12nwyh5
+2. https://prnt.sc/12nwza8 ширина (КРАЩЕ ЗАДАВАТИ В ВІДСОТКАХ)
+3. убери брки зроби ширину https://prnt.sc/12nx4ue https://prnt.sc/12nx6hj (КРАЩЕ ЗАДАВАТИ В ВІДСОТКАХ)
+4. убери виділєнія https://prnt.sc/12nxbg1
+5. поміняй картинки https://prnt.sc/12nx0z6
+1366
+1.додай отступ справа https://prnt.sc/12nx3bb
+2.https://prnt.sc/12nxffk
+3.https://prnt.sc/12nxfz3
+1024
+1.https://prnt.sc/12nxjlf
+2.не по центру https://prnt.sc/12nxkyn
+880
+1. https://prnt.sc/12nxps7
+2. скрол https://prnt.sc/12nxrlm https://prnt.sc/12nxsvb
+480 поки не виписую
