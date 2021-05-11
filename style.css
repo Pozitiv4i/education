@@ -101,12 +101,15 @@ h1 span {
 
 
 .team-leaders .qwestion {
-    text-align: center;
     font-size: 30px;
     font-family: Helvetica;
     margin-top: 84px;
     letter-spacing: 1px;
     line-height: 26px;
+    width: 70%;
+    margin-left: 270px;
+    text-align: center;
+
 }
 
 .photo-leaders {
@@ -183,6 +186,7 @@ form select {
     padding-top: 55px;
     font-family:Helvetica;
     line-height: 39px;
+    width: 100%;
 }
 .name {
     margin-left: 42px;
@@ -202,7 +206,7 @@ form select {
     border-bottom: 1.5px solid white;
     font-size: 22px;
     height: 36px;
-
+    outline:none;
 }
 .email {
     width: 1080px;
@@ -284,6 +288,7 @@ form {
 .lisa {
     margin-left: 59px;
     margin-top: 352px;
+    height: 600px;
 }
 .about-us {
     background-color: #f9f9fb;
@@ -310,7 +315,9 @@ form {
 }
 .about-us img {
     border-radius: 50%;
-    margin: 14px 47px 0px;
+    margin: 14px 61px 0px;
+    width: 130px;
+    height: 130px;
 }
 .photo {
     display: flex;

@@ -13,7 +13,7 @@
     
     h1 {
         font-size: 50px;
-        padding-left: 918px;
+        padding-left: 818px;
     }
     .team-leaders h2 {
         margin-top: 140px;
@@ -55,7 +55,7 @@
     .about-us img {
         width: 90px;
         height: 90px;
-        margin: 14px 60px 0px;
+        margin: 14px 52px 0px;
     }
     .komment p {
         font-size: 16px;
@@ -160,14 +160,14 @@
         width: 350px;
     }
     form .email {
-        width: 723px;
+        width: 736px;
     }
     .lisa {
         height: 400px;
         margin: 100px auto ;
     }
     form .message {
-        width: 723px;
+        width: 736px;
         min-height: 98px;
     }
     form .contact {
@@ -197,7 +197,7 @@
     .gallery {
         font-size: 22px;
         letter-spacing: 2px;
-        margin-left: 60px;
+        margin-left: 0px;
     }
     .text1 {
         margin-left: 77px;
@@ -231,7 +231,8 @@
         margin-left: 227px;
     }
     .team-leaders .qwestion {
-        font-size: 21px;
+        font-size: 20px;
+        margin-left: 150px;
     }
     .photo-leaders .item img {
         width: 250px;
@@ -246,6 +247,10 @@
         margin-top: 37px;
         line-height: 21px;    
     }
+    .images-container img {
+        width: 33%;
+    }
+    
     .rating .item {
         margin: 102px 10px 0 36px;
     }
@@ -313,6 +318,13 @@ form .contact {
 form .contact::before{
     display: none;
 }
+.footer-top {
+    height: 100%;
+    flex-wrap: wrap;
+}
+.text3 {
+    margin-left: 77px;
+}
 .lisa {
     height: 300px;
     margin: 70px auto;
@@ -348,16 +360,5 @@ footer p {
     padding-left: 60px;
     padding-top: 19px;
 }
-.text1 {
-    margin-left: 40px;
-}
-.text2 {
-    margin-left: 25px;
-}
-.text3 {
-    margin-left: 30px;
-}
-.text4 {
-    margin-left: 26px;
-}
+
 }
