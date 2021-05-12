@@ -1,18 +1,26 @@
 
 1920
 1. https://prnt.sc/12nwyh5 +
-2. https://prnt.sc/12nwza8 ширина (КРАЩЕ ЗАДАВАТИ В ВІДСОТКАХ) -
-3. убери брки зроби ширину https://prnt.sc/12nx4ue https://prnt.sc/12nx6hj (КРАЩЕ ЗАДАВАТИ В ВІДСОТКАХ) +
+2. https://prnt.sc/12nwza8 ширина в відосотках, по бокам маргін авто -
+3. убери брки зроби ширину https://prnt.sc/12nx6hj (КРАЩЕ ЗАДАВАТИ В ВІДСОТКАХ) -
 4. убери виділєнія https://prnt.sc/12nxbg1 +
 5. поміняй картинки https://prnt.sc/12nx0z6 +
 1366
 1.додай отступ справа https://prnt.sc/12nx3bb +
 2.https://prnt.sc/12nxffk +
-3.https://prnt.sc/12nxfz3 - (не оч понимаю як це делать)
 1024
 1.https://prnt.sc/12nxjlf +
 2.не по центру https://prnt.sc/12nxkyn +
 880
-1. https://prnt.sc/12nxps7
-2. скрол https://prnt.sc/12nxrlm https://prnt.sc/12nxsvb (я не знаю,там просто ширина в процентах и если поставлю менше то все полетит)
+1. https://prnt.sc/12nxps7 -
+2. скрол https://prnt.sc/12nxrlm https://prnt.sc/12nxsvb 
+.images-container {
+  width: 100%; 
+  overflow: hidden;
+} 
+@media screen and (max-width: 1024px)
+.images-container img {
+    width: 33.4%;
+    height: 665px;
+}
 480 поки не виписую
