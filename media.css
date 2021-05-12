@@ -215,7 +215,7 @@
         margin-left: 0px;
     }
     .images-container img {
-        width: 34%;
+        width: 33.4%;
         height: 665px;
     }
     .images2, .images3 {
@@ -247,10 +247,10 @@
         margin-top: 37px;
         line-height: 21px;    
     }
-    .images-container img {
-        width: 33%;
+    .images-container {
+        width: 100%; 
+        overflow: hidden;
     }
-    
     .rating .item {
         margin: 102px 10px 0 36px;
     }
@@ -341,8 +341,19 @@ form .contact::before{
 .gallery {
     font-size: 19px;
     letter-spacing: 2px;
-    margin-left: 0px;
-    margin-top: 47px;
+    margin:0 auto;
+    margin-top: 60px;
+}
+.omnis {
+    width: 90%;
+}
+form .city {
+    margin-left: 40px;
+}
+.inf {
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
 }
 h3 {
     margin-top: 100px;

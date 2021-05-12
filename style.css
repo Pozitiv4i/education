@@ -186,7 +186,8 @@ form select {
     padding-top: 55px;
     font-family:Helvetica;
     line-height: 39px;
-    width: 100%;
+    width: 50%;
+    margin: 0 auto;
 }
 .name {
     margin-left: 42px;
@@ -380,9 +381,11 @@ h3 {
 .gallery  {
     font-size: 36px;
     font-weight: 600;
-    margin-top: 84px;
     letter-spacing: 4px;
     text-align: center;
+    width: 80%;
+    margin:0 auto;
+    margin-top: 84px;
 }
 .images-container {
     display: flex;
