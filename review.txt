@@ -25,10 +25,10 @@
 }
 480
 1. скрол (проблема в contact-us і qwestion)
-2. https://prnt.sc/12wuw5q
-3. https://prnt.sc/12wuwlj
-4. додай отступ https://prnt.sc/12wuxhg https://prnt.sc/12wuxzj
-5. https://prnt.sc/12wuypn
+2. https://prnt.sc/12wuw5q +
+3. https://prnt.sc/12wuwlj +
+4. додай отступ https://prnt.sc/12wuxhg https://prnt.sc/12wuxzj +
+5. https://prnt.sc/12wuypn +
 
 Задача.
 Зробити попапи для карусєлі https://prnt.sc/12wv91g. Коли нажимаєш на будь яку картинку вона відкривається в попапі https://habr.com/ru/post/417873/. В попапі має бути кнопка щоб його закрити.
