@@ -389,10 +389,15 @@ h3 {
 }
 .images-container {
     display: flex;
+    width: 100%;
+    height:100%;
+    background-color: #cccccc83;
     margin-top: 167px;
+    font-size:30px;
+    color: #fff;
 }
 .images-container img {
-    width: 20%;
+    width: 100%;
     height: 767px;
 }
 .button-container {
@@ -521,4 +526,19 @@ footer p {
     margin-left: 10px;
     width: 40px;
     height: 40px;
+}
+.b-popup{
+    width:100%;
+    min-height:100%;
+    background-color: rgba(139, 139, 139, 0.5);
+    overflow:hidden;
+    position:fixed;
+    top:0px;
+}
+.b-popup .b-popup-content{
+    margin:0 auto;
+    display: block;
+    width:640px;
+    height: 1000px;
+    padding:10px;
 }

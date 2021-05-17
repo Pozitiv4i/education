@@ -99,7 +99,7 @@
         letter-spacing: 3px;
     }
     .images-container img {
-        width: 20%;
+        width: 100%;
         height: 665px;
     }
     .footer-top {
@@ -215,7 +215,7 @@
         margin-left: 0px;
     }
     .images-container img {
-        width: 33.4%;
+        width: 100%;
         height: 665px;
     }
     .images2, .images3 {
@@ -387,7 +387,7 @@ h3 {
     display: none;
 }
 .images-container img {
-    width: 50%;
+    width: 100%;
     height: 600px;
 }
 footer p {
