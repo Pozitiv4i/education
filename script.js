@@ -7,3 +7,9 @@ function PopUpShow(){
 function PopUpHide(){
     $("#popup1").hide();
 }
+// function PopUpShow(){
+//     $("#lock-popup").show();
+// }
+// function PopUpHide(){
+//     $("#lock-popup").show();
+// }
