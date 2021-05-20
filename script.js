@@ -1,15 +1,9 @@
-$(document).ready(function(){
-    PopUpHide();
+const ContentPopUp = document.getElementById('img1');
+const LockPopUp = document.getElementById('lock-popup');
+const popup = document.getElementById('popup1');
+ContentPopUp.addEventListener("click", function() {
+    popup.style.display = 'block';
 });
-function PopUpShow(){
-    $("#popup1").show();
-}
-function PopUpHide(){
-    $("#popup1").hide();
-}
-// function PopUpShow(){
-//     $("#lock-popup").show();
-// }
-// function PopUpHide(){
-//     $("#lock-popup").show();
-// }
+LockPopUp.addEventListener("click", function() {
+    popup.style.display = 'none';
+});

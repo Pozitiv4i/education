@@ -534,11 +534,19 @@ footer p {
     overflow:hidden;
     position:fixed;
     top:0px;
+    display: none;
 }
-.b-popup .b-popup-content{
+.b-popup .b-popup-content {
     margin:0 auto;
     display: block;
     width:640px;
     height: 1000px;
     padding:10px;
+}
+#lock-popup {
+    width:50px;
+    height: 50px;
+    position:fixed;
+    left: 1214px;
+    top: 20px;
 }
