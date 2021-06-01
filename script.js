@@ -9,5 +9,5 @@ box2.addEventListener('click', event => {
     event.target.style.borderColor = "red"
 });
 paragraph.addEventListener('click', event => { 
-    event.target.style.color = "red"
+    event.target.style.color = event.target.textContent;
 });
