@@ -395,10 +395,20 @@ h3 {
     margin-top: 167px;
     font-size:30px;
     color: rgba(255, 255, 255, 0.116);
+    overflow: hidden;
+}
+.carousel {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    display: flex;
+    left: 0;
+    transition: all 1s ease;
 }
 .images-container img {
-    width: 100%;
-    height: 767px;
+    width: 20%;
+    height: 767px; 
 }
 .button-container {
     background-color: #d6d6d6;
