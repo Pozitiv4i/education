@@ -21,7 +21,7 @@ const maxX = -((cardCount / 2) * carouselWidth +
                carouselWidth - cardMarginRight);
 leftButton.addEventListener("click", function() {
   if (offset !== 0) {
-    offset += carouselWidth + cardMarginRight;
+    offset += carouselWidth - cardMarginRight;
     carousel.style.transform = `translateX(${offset}px)`;
     }
 })

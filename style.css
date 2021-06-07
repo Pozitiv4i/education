@@ -397,6 +397,10 @@ h3 {
     color: rgba(255, 255, 255, 0.116);
     overflow: hidden;
 }
+.card {
+    background: black;
+    height: 200px;
+  }
 .carousel {
     margin: 0;
     padding: 0;
@@ -404,7 +408,7 @@ h3 {
     width: 100%;
     display: flex;
     left: 0;
-    transition: all 1s ease;
+    transition: all 0.6s ease;
 }
 .images-container img {
     width: 20%;
