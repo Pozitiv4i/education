@@ -40,8 +40,12 @@
     const arr2 = [4, 7, 1, 8, 10];
     const ascending = arr2.sort((a,b) => a-b)
     console.log(arr2)
-    const arr3 = ['Jack', 'Natali', 'Bob', 'Lionel'];
-    
+    function filterRange(arr3, a, b) {
+    return arr3.filter(item => (a <= item.length && item.length <= b));
+  }
+  let arr3 = ['Jack', 'Natali', 'Bob', 'Lionel'];
+    let filtered = filterRange(arr3, 1, 4)
+    console.log(arr3)
     const arr4 = ["ghgh"];
     const arr5 = [1, 2, 3, 4];
     const str1 = '9379992';
