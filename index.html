@@ -34,20 +34,23 @@
   </ul>
 
   <script>
-    const arr1 = ['Mike', 'Daniel', 'Kim', 'Zack'];
+    const arr1 = ['Mike', 'Daniel', 'Kim', 'Zack,'];
     arr1.splice(1, 2, "Роза");
     console.log(arr1)
     const arr2 = [4, 7, 1, 8, 10];
     const ascending = arr2.sort((a,b) => a-b)
     console.log(arr2)
-    function filterRange(arr3, a, b) {
-    return arr3.filter(item => (a <= item.length && item.length <= b));
-  }
   let arr3 = ['Jack', 'Natali', 'Bob', 'Lionel'];
-    let filtered = filterRange(arr3, 1, 4)
+  let arrFilter = arr3.filter(arr3 => arr3.length > 4);
+  arr3 = arrFilter
     console.log(arr3)
-    const arr4 = ["ghgh"];
+    const arr4 = [arr1 + arr3]
+    console.log(arr4)
     const arr5 = [1, 2, 3, 4];
+    let arrMap = arr5.map(function(x) {
+      return x*10
+    })
+    console.log(arrMap)
     const str1 = '9379992';
 
   </script>
