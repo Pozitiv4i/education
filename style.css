@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    width: 1440px;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+.shopno {
+    display: flex;
+    justify-content: space-between;
+}
+header {
+    background-color: #eff0f2;
+}
+.logo {
+    border: 5px solid black;
+
+    margin-top: 67px;
+}
+.logo img {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.menu {
+    margin-top: 79px;
+}
+h1 {
+
+}
