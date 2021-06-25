@@ -89,15 +89,14 @@ header {
 }
 .logo {
     border: 5px solid black;
-
-    margin-top: 67px;
+    margin-top: 70px;
 }
 .logo img {
-    padding-top: 4px;
-    padding-bottom: 4px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 .menu {
-    margin-top: 79px;
+    margin-top: 80px;
 }
 h1 {
     font-family:Montserrat-Bold;
