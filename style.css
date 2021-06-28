@@ -72,6 +72,10 @@ body {
     font-family:Montserrat-Regular;
     src: url(fonts/Montserrat-Regular.ttf); 
    }
+   @font-face {
+    font-family:Merriweather-Regular;
+    src: url(fonts/Merriweather-Regular.tff); 
+   }
 @font-face {
     font-family:Raleway-Italic-VariableFont_wght;
     src: url(fonts/Raleway-Italic-VariableFont_wght.ttf); 
@@ -86,6 +90,7 @@ body {
 }
 header {
     background-color: #eff0f2;
+    height: 800px;
 }
 .logo {
     border: 5px solid black;
@@ -121,4 +126,29 @@ h1 mark {
 .contact-us {
     display: flex;
     justify-content: center;
+}
+.cup {
+  position: absolute;
+  left: 1113px;
+  top: 600px;
+}
+.glass {
+  position: absolute;
+}
+.juice {
+  position: absolute;
+}
+h2 {
+    font-family:Montserrat-Bold;
+    font-size: 38px;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-left: 32px;
+    margin-top: 284px;
+}
+.about-text {
+    font-family:Merriweather-Regular;
+    font-size: 21px;
+    text-align: center;
+    margin-top: 28px;
 }
