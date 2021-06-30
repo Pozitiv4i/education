@@ -76,9 +76,13 @@ body {
     font-family:Merriweather-Regular;
     src: url(fonts/Merriweather-Regular.tff); 
    }
-@font-face {
+  @font-face {
     font-family:Raleway-Italic-VariableFont_wght;
     src: url(fonts/Raleway-Italic-VariableFont_wght.ttf); 
+   }
+  @font-face {
+    font-family:Raleway-Regular;
+    src: url(fonts/static/Raleway-Regular.ttf); 
    }
 .container {
     width: 1140px;
@@ -95,11 +99,9 @@ header {
 .logo {
     border: 5px solid black;
     margin-top: 70px;
+    padding: 7px;
 }
-.logo img {
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
+
 .menu {
     margin-top: 80px;
 }
@@ -137,6 +139,7 @@ h1 mark {
 }
 .juice {
   position: absolute;
+  top: -25px;
 }
 h2 {
     font-family:Montserrat-Bold;
@@ -144,7 +147,7 @@ h2 {
     text-align: center;
     letter-spacing: 2px;
     margin-left: 32px;
-    margin-top: 99px;
+    margin-top: 287px;
 }
 .about-text {
     font-family:Merriweather-Regular;
@@ -159,11 +162,45 @@ h2 {
   display: block;
 }
 .images .photo {
-  margin-left: 205px;
-  margin-top: 117px;
+  margin-left: 55px;
+  margin-top: 118px;
 }
 .images button {
   border: 0px;
   background-color: white;
   padding: 0;
+}
+.blk {
+  display: block;
+}
+.actually {
+  font-family:Merriweather-Bold;
+  font-size: 20px;
+  letter-spacing: 1.5px;
+  margin-left: 71px;
+  margin-top: 144px;
+}
+.visual-approach, .aircraft {
+  font-family:Raleway-Regular;
+  letter-spacing: 1.2px;
+  font-size: 16px;
+  margin-left: 71px;
+  line-height: 28px;
+  margin-top: 23px;
+}
+.great {
+  font-family:Merriweather-Bold;
+  font-size: 17px;
+  letter-spacing: 1.5px;
+  margin-left: 70px;
+  margin-top: 33px;
+}
+
+.rules {
+  font-family:Raleway-Regular;
+  letter-spacing: 1.2px;
+  font-size: 16px;
+  margin-left: 71px;
+  line-height: 28px;
+  margin-top: 16px;
 }
