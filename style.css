@@ -98,7 +98,7 @@ header {
 }
 .logo {
     border: 5px solid black;
-    margin-top: 58px;
+    margin-top: 61px;
     padding: 7px;
 }
 
@@ -207,4 +207,28 @@ h2 {
 .button-container {
   margin-left: 228px;
   margin-top: 12px;
+}
+h3 {
+    font-family:Montserrat-Bold;
+    font-size: 38px;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-left: 42px;
+    margin-top: 226px;
+}
+.txt {
+    font-family:Merriweather-Regular;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 2px;
+    letter-spacing: 1.5px;
+}
+.img-container {
+  display: flex;
+  margin-top: 110px;
+  flex-wrap: wrap;
+}
+.img-container img {
+  margin-left: 10px;
+  margin-top: 10px;
 }
