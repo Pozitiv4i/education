@@ -1,12 +1,12 @@
-1. де хедер відкривається?? https://prnt.sc/192s7ji
-2. адекватно поназивай картинки https://prnt.sc/192smqs
-3. чого одні шрифти в fonts/ а інші в fonts/static? https://prnt.sc/192swct
-4. шрифти повинні бути в woff2 форматі. Вони важать менше і їх підтримують сучасні браузери. https://transfonter.org/
-5. лишні файли нада удалять https://prnt.sc/192tmii
-6. індикатири не потрібно робити картинками https://prnt.sc/192u3li
-7. неадекватна назва класів  https://prnt.sc/192uhey https://prnt.sc/192v2ha https://prnt.sc/192w54j
-8. від цього діва можна ізбавитись https://prnt.sc/192utau
-9. цей весь контент должен попасти в .about-us https://prnt.sc/192vdqu
+1. де хедер відкривається?? https://prnt.sc/192s7ji +
+2. адекватно поназивай картинки https://prnt.sc/192smqs +
+3. чого одні шрифти в fonts/ а інші в fonts/static? https://prnt.sc/192swct +
+4. шрифти повинні бути в woff2 форматі. Вони важать менше і їх підтримують сучасні браузери. https://transfonter.org/ -
+5. лишні файли нада удалять https://prnt.sc/192tmii +
+6. індикатири не потрібно робити картинками https://prnt.sc/192u3li -
+7. неадекватна назва класів  https://prnt.sc/192uhey https://prnt.sc/192v2ha https://prnt.sc/192w54j +
+8. від цього діва можна ізбавитись https://prnt.sc/192utau +
+9. цей весь контент должен попасти в .about-us https://prnt.sc/192vdqu +
 10. замість цього потрібно використити .container https://prnt.sc/192vmk2 https://prnt.sc/192w9fg
 11. ізбався від класів взагалі https://prnt.sc/192vx2n
 12. вирівняй код https://prnt.sc/192wbjy https://prnt.sc/192wfzc
