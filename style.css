@@ -62,27 +62,27 @@ body {
 }
 @font-face {
     font-family:Merriweather-Bold;
-    src: url(fonts/Merriweather-Bold.ttf); 
+    src: url(fonts/Merriweather-Bold.woff2); 
    }
 @font-face {
     font-family:Montserrat-Bold;
-    src: url(fonts/Montserrat-Bold.ttf); 
+    src: url(fonts/Montserrat-Bold.woff2); 
    }
    @font-face {
     font-family:Montserrat-Regular;
-    src: url(fonts/Montserrat-Regular.ttf); 
+    src: url(fonts/Montserrat-Regular.woff2); 
    }
    @font-face {
     font-family:Merriweather-Regular;
-    src: url(fonts/Merriweather-Regular.tff); 
+    src: url(fonts/Merriweather-Regular.woff2); 
    }
   @font-face {
     font-family:Raleway-Italic-VariableFont_wght;
-    src: url(fonts/Raleway-Italic-VariableFont_wght.ttf); 
+    src: url(fonts/Raleway-Italic-VariableFont_wght.woff2); 
    }
   @font-face {
     font-family:Raleway-Regular;
-    src: url(fonts/Raleway-Regular.ttf); 
+    src: url(fonts/Raleway-Regular.woff2); 
    }
 .container {
     width: 1140px;
@@ -213,9 +213,12 @@ h3 {
     margin-left: 42px;
     margin-top: 226px;
 }
+.about-us .our-text {
+  margin-top: 25px;
+}
 .our-text {
     font-family:Merriweather-Regular;
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
     margin-top: 2px;
     letter-spacing: 1.5px;
