@@ -255,4 +255,7 @@ h4 {
 }
 .one-picture {
   background-image: url(images/2.png);
+  position:relative;
+  height: 651px;
+  width: 371px;
 }
