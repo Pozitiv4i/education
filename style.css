@@ -241,6 +241,8 @@ h4 {
 }
 .design  {
   margin-top: 130px;
+  display:flex;
+  flex-wrap: wrap;
 }
 .design img {
   margin-top: 5px;
@@ -255,7 +257,58 @@ h4 {
 }
 .one-picture {
   background-image: url(images/2.png);
-  position:relative;
-  height: 651px;
-  width: 371px;
+  position: relative;
+  height: 370px;
+  width: 652px;
+  color: white;
+  margin-top: 24px;
+}
+.two-picture {
+  background-image: url(images/1.png);
+  position: relative;
+  height: 396px;
+  width: 468px;
+  color: white;
+  margin-left: 16px;
+}
+.three-picture {
+  background-image: url(images/3.png);
+  position: relative;
+  height: 372px;
+  width: 468px;
+  color: white;
+  margin-left: 16px;
+  margin-top: 24px;
+}
+.four-picture {
+  background-image: url(images/4.png);
+  position: relative;
+  height: 372px;
+  width: 468px;
+  color: white;
+  margin-top: 24px;
+}
+.cool-design {
+  font-family:Merriweather-Bold;
+  font-size: 20px;
+  letter-spacing: 1px;
+  padding-top: 161px;
+  padding-left: 66px;
+}
+.virtual {
+  font-family:Raleway-Regular;
+  font-size: 16px;
+  padding-left: 66px;
+  padding-top: 20px;
+  line-height: 22px;
+}
+.know-more {
+  font-family: Raleway-Regular;
+  font-size: 19px;
+  padding-left: 71px;
+  padding-top: 47px;
+}
+.know-more::after {
+  content:"";
+  background-image: url(images/arrow.png);
 }
