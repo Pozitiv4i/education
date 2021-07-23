@@ -237,7 +237,7 @@ h4 {
   font-size: 38px;
   text-align: center;
   letter-spacing: 2px;
-  margin-top: 238px;
+  margin-top: 218px;
 }
 .design  {
   margin-top: 130px;
@@ -258,7 +258,7 @@ h4 {
 .one-picture {
   background-image: url(images/2.png);
   position: relative;
-  height: 370px;
+  height: 415px;
   width: 652px;
   color: white;
   margin-top: 24px;
@@ -278,7 +278,6 @@ h4 {
   width: 468px;
   color: white;
   margin-left: 16px;
-  margin-top: 24px;
 }
 .four-picture {
   background-image: url(images/4.png);
