@@ -211,7 +211,7 @@ h3 {
     text-align: center;
     letter-spacing: 2px;
     margin-left: 42px;
-    margin-top: 226px;
+    margin-top: 170px;
 }
 .about-us .our-text {
   margin-top: 25px;
@@ -266,18 +266,20 @@ h4 {
 .two-picture {
   background-image: url(images/1.png);
   position: relative;
-  height: 396px;
+  height: 415px;
   width: 468px;
   color: white;
   margin-left: 16px;
+  margin-top: 24px;
 }
 .three-picture {
   background-image: url(images/3.png);
   position: relative;
-  height: 372px;
+  height: 415px;
   width: 468px;
   color: white;
   margin-left: 16px;
+  margin-top: 24px;
 }
 .four-picture {
   background-image: url(images/4.png);
@@ -286,6 +288,15 @@ h4 {
   width: 468px;
   color: white;
   margin-top: 24px;
+}
+.five-picture {
+  background-image: url(images/5.png);
+  position: relative;
+  height: 372px;
+  width: 651px;
+  color: white;
+  margin-top: 24px;
+  margin-left: 16px;
 }
 .cool-design {
   font-family:Merriweather-Bold;
