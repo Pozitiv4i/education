@@ -211,7 +211,10 @@ h3 {
     text-align: center;
     letter-spacing: 2px;
     margin-left: 42px;
-    margin-top: 170px;
+    margin-top: 228px;
+}
+.workers h3 {
+  margin-top: 141px;
 }
 .about-us .our-text {
   margin-top: 25px;
@@ -237,7 +240,7 @@ h4 {
   font-size: 38px;
   text-align: center;
   letter-spacing: 2px;
-  margin-top: 218px;
+  margin-top: 240px;
 }
 .design  {
   margin-top: 130px;
