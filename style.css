@@ -325,3 +325,9 @@ h4 {
   content:"";
   background-image: url(images/arrow.png);
 }
+.Image .photo {
+  width: 320px;
+  height: 406px;
+  margin-top: 123px;
+  margin-left: 39px;
+}
