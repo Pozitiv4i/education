@@ -363,3 +363,20 @@ h5 {
 .stars img {
   margin-left: 3px;
 }
+.arrows {
+  border:0px;
+  width: 55px;
+  height: 55px;
+  border-radius: 5px;
+  margin-top: 30px;
+}
+.buttons-container {
+  display: flex;
+  justify-content: flex-end;
+}
+#arrow1 {
+  margin-right: 25px;
+}
+.arrows:hover {
+ background-color: #71f6eb;
+}
