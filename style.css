@@ -92,7 +92,9 @@ body {
     display: flex;
     justify-content: space-between;
 }
-
+header {
+  background-color:#eff0f2 ;
+}
 .logo {
     border: 5px solid black;
     margin-top: 61px;
@@ -379,4 +381,8 @@ h5 {
 }
 .arrows:hover {
  background-color: #71f6eb;
+}
+.logos {
+  margin-top: 246px;
+  margin-left: 154px;
 }
