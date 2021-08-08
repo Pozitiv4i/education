@@ -394,3 +394,7 @@ h5 {
   margin-top: 246px;
   margin-left: 153px;
 }
+.about-us-container {
+  background-color: #f8fafa;
+  display: flex;
+}
