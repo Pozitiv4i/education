@@ -349,8 +349,8 @@ h4 {
 .Image .photo {
   width: 320px;
   height: 406px;
-  margin-top: 123px;
-  margin-left: 39px;
+  margin-top: 143px;
+  margin-left: 188px;
 }
 .Image button {
   border: 0px;
@@ -408,4 +408,19 @@ h5 {
 .about-us-container {
   background-color: #f8fafa;
   display: flex;
+}
+footer {
+  display: flex;
+  margin-top: 230px;
+}
+.message {
+  height: 459px;
+  width: 613px;
+  background-color:#495862 ;
+}
+.adress {
+    height: 459px;
+    width: 495px;
+    background-color:#495862 ;
+    margin-left: 30px;
 }
