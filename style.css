@@ -433,3 +433,9 @@ footer {
   margin-left: 30px;
   margin-top: 44px;
 }
+.message button  {
+  border: 0px;
+  border-radius: 5px;
+  width: 70px;
+  height: 30px;
+}
