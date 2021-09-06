@@ -424,6 +424,7 @@ footer {
     width: 495px;
     background-color:#495862 ;
     margin-left: 30px;
+    color: white;
 }
 .message input, textarea {
   border: 0px;
@@ -432,10 +433,19 @@ footer {
   width: 552px;
   margin-left: 30px;
   margin-top: 44px;
+  color: white;
+  max-height: 95px;
 }
 .message button  {
   border: 0px;
-  border-radius: 5px;
-  width: 70px;
-  height: 30px;
+  border-radius: 2px;
+  width: 249px;
+  height: 53px;
+  margin-left: 30px;
+  background-color:#6eeee4 ;
+  font-family: Raleway-Regular;
+  font-size: 16px;
+  letter-spacing: 3.5px;
+  font-weight: 800;
+  margin-top: 30px;
 }
