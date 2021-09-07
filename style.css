@@ -425,6 +425,29 @@ footer {
     background-color:#495862 ;
     margin-left: 30px;
     color: white;
+    font-family: Raleway-Regular;
+    font-size: 14px;
+}
+.adress p {
+  margin-left: 27px;
+}
+.adress-line1 {
+  margin-top: 38px;
+}
+.adress-line2 {
+  margin-top:7px ;
+}
+.Phone {
+  margin-top: 6px;
+}
+.Fax {
+  margin-top: 10px;
+}
+.web {
+  margin-top: 31px;
+}
+.email {
+  margin-top: 10px;
 }
 .message input, textarea {
   border: 0px;
